@@ -1,5 +1,9 @@
 {
-"clusterVariablesMeta":{
-}
-
+  "clusterVariablesMeta": {
+    "shshs": {
+      "secret": true,
+      "value": "shshs",
+      "global": false
+    }
+  }
 }
